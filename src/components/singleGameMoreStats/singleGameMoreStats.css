@@ -1,0 +1,49 @@
+.moreStats {
+  height: 0;
+  /* overflow: hidden; */
+  /* transition: height 0.1s ease; */
+}
+
+.open {
+  height: 1000px; /* Set a large max-height to allow the text to expand */
+}
+
+.moreStatsActual {
+  height: 0;
+  overflow: hidden;
+  transition: height 0.7s ease;
+  transition-property: height;
+  /* transition-delay: 0.5s; */
+
+  /* animation-name: toDown;
+  animation-delay: 0.5s;
+  animation-duration: 0.5s; */
+}
+
+.openMoreStats {
+  height: 900px;
+  /* position: relative; */
+  /* animation-name: toDown;
+  animation-delay: 0.5s;
+  animation-duration: 0.5s; */
+}
+
+/* .flip {
+  transform: scaleY(0);
+  transition: transform 0.5s ease;
+}
+
+.flip-back {
+  transform: scaleY(0);
+  transition: transform 0.5s ease;
+}
+
+.rotate-180 {
+  transform: rotate(180deg);
+  transition: transform 0.5s ease;
+}
+
+.rotate-180-back {
+  transform: rotate(-180deg);
+  transition: transform 0.5s ease;
+} */
