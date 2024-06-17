@@ -6,8 +6,8 @@ import { BiTrash, BiCollapse, BiExpand } from "react-icons/bi";
 import { deleteGame } from "@/lib/action";
 import { useState, useRef, useEffect } from "react";
 
-import before from "@/demos/before.mp4";
-import after from "@/demos/after.mp4";
+// import before from "@/demos/before.mp4";
+// import after from "@/demos/after.mp4";
 
 import { ReactCompareSlider } from "react-compare-slider";
 
