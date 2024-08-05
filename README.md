@@ -1,3 +1,5 @@
+view "demo_video.mp4" to check out the general features of the application.
+
 ## Getting Started
 
 install the dependencies:
@@ -41,6 +43,4 @@ pnpm dev
 bun dev
 ```
 
-You can view "demo_video.mp4" to check out the general features of the application.
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
